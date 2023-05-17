@@ -1,4 +1,3 @@
-
 # finalproject_chessgame-chessmate
 # Chess Mate
 
@@ -36,8 +35,6 @@
 
 ### King under check 
 ![black king check](https://github.com/sbme-tutorials/finalproject_chessgame-chessmate/assets/52898207/c3a7c23e-d9bf-44f3-89e3-da65bb8f5a78)
-https://github.com/sbme-tutorials/finalproject_chessgame-chessmate/assets/52898207/bd35a498-043c-4019-94ae-47388c6938ee
-
 
 
 
@@ -48,7 +45,16 @@ https://github.com/sbme-tutorials/finalproject_chessgame-chessmate/assets/528982
 
 ### User Account
 <p align="justify"> The game also includes a user account system that allows users to create new account credentials (username and password). If the credentials are incorrect, an error message is displayed. When a user logs in, they can either play a new game or retrieve the scores of previous games, including the players' names and the winner, as well as the time elapsed to complete the game. Each account has its own recorded games, which are saved as files for easy retrieval. There is no need for a database to keep track of the game history. </p>
-![WhatsApp Image 2023-05-18 at 00 02 37](https://github.com/sbme-tutorials/finalproject_chessgame-chessmate/assets/52898207/60070afa-ea65-4f39-aa14-849e2bf75fd6)
+
+![Game Data](https://github.com/sbme-tutorials/finalproject_chessgame-chessmate/assets/124778473/d20bfe31-d7bc-4a89-a769-f95eefebf172)
+
+### Game Demo
+
+![Game Demo](https://github.com/sbme-tutorials/finalproject_chessgame-chessmate/assets/124778473/311804f7-4e4f-4b28-bcd6-c141b7ddc53d)
+
+
+
+
 
 ## Conclusion
 
