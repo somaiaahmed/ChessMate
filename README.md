@@ -1,4 +1,5 @@
 
+# finalproject_chessgame-chessmate
 # Chess Mate
 
 <p align="justify"> The Chess Game is a two-player strategy game where each player has a set of pieces with different movements. The objective of the game is to capture the opponent's king and avoid being captured in return. This project is a Java implementation of the Chess Game that allows users to play the game and keep track of their game history. </p>
@@ -35,6 +36,8 @@
 
 ### King under check 
 ![black king check](https://github.com/sbme-tutorials/finalproject_chessgame-chessmate/assets/52898207/c3a7c23e-d9bf-44f3-89e3-da65bb8f5a78)
+https://github.com/sbme-tutorials/finalproject_chessgame-chessmate/assets/52898207/bd35a498-043c-4019-94ae-47388c6938ee
+
 
 
 
