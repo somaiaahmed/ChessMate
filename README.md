@@ -16,25 +16,25 @@
 ### Piece Moves
 
 #### Pawn
-![white pawn](https://github.com/sbme-tutorials/finalproject_chessgame-chessmate/assets/52898207/bb889654-a27e-450d-9c37-3de78af7fa6e)
+![white pawn](https://github.com/somaiaahmed/ChessMate/assets/52898207/b4e24d59-e03c-4bc2-be3a-8afcbcb50b28)
 
 #### Bishop
-![black bishop](https://github.com/sbme-tutorials/finalproject_chessgame-chessmate/assets/52898207/98b28383-af33-40f6-a18a-91cba3a304c7)
+![black bishop](https://github.com/somaiaahmed/ChessMate/assets/52898207/3a7135a5-42cc-44a4-be23-351817987162)
 
 #### Knight
-![white knight](https://github.com/sbme-tutorials/finalproject_chessgame-chessmate/assets/52898207/c163ec41-0878-40f0-9c0f-3fff7ef1a7ff)
+![white knight](https://github.com/somaiaahmed/ChessMate/assets/52898207/5def52c0-da5d-4594-934c-a3d0dced3786)
 
 #### Rook
-![white rook](https://github.com/sbme-tutorials/finalproject_chessgame-chessmate/assets/52898207/dade6f4b-4566-41f9-8329-fda5035a3258)
+![white rook](https://github.com/somaiaahmed/ChessMate/assets/52898207/c91a56e9-2068-4cff-8daa-87be481a2483)
 
 #### Queen
-![white queen](https://github.com/sbme-tutorials/finalproject_chessgame-chessmate/assets/52898207/bef93be7-f8e1-49d2-871d-3dbff382ed42)
+![white queen](https://github.com/somaiaahmed/ChessMate/assets/52898207/f9379adc-d495-412d-8feb-730972ce18b2)
 
 #### King
-![white king](https://github.com/sbme-tutorials/finalproject_chessgame-chessmate/assets/52898207/b1ca78d8-59e3-4803-b5ba-60d8740935a3)
+![white king](https://github.com/somaiaahmed/ChessMate/assets/52898207/b67c8878-f5d9-4e3d-90b4-e96b7a33fcd4)
 
 ### King under check 
-![black king check](https://github.com/sbme-tutorials/finalproject_chessgame-chessmate/assets/52898207/c3a7c23e-d9bf-44f3-89e3-da65bb8f5a78)
+![black king check](https://github.com/somaiaahmed/ChessMate/assets/52898207/1d2f6bcb-78ce-40ca-8a6d-ea2cacc82f8a)
 
 
 
@@ -46,7 +46,7 @@
 ### User Account
 <p align="justify"> The game also includes a user account system that allows users to create new account credentials (username and password). If the credentials are incorrect, an error message is displayed. When a user logs in, they can either play a new game or retrieve the scores of previous games, including the players' names and the winner, as well as the time elapsed to complete the game. Each account has its own recorded games, which are saved as files for easy retrieval. There is no need for a database to keep track of the game history. </p>
 
-![Game Data](https://github.com/sbme-tutorials/finalproject_chessgame-chessmate/assets/124778473/d20bfe31-d7bc-4a89-a769-f95eefebf172)
+![Game Data](https://github.com/somaiaahmed/ChessMate/assets/52898207/780a77e0-4837-470c-957c-5757192a63f4)
 
 ### Game Demo
 
