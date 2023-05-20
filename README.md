@@ -61,15 +61,3 @@
 <p align="justify"> The Chess Game is a classic strategy game that requires skill and foresight to win. This Java implementation of the game includes several bonus features, such as a timer and a user account system, to enhance the gameplay experience. With this project, you can learn more about programming in Java and create a fun and engaging game that you can share with others. </p>
 
 
-## Project Contributors:
-1-Somaia Ahmed
-
-2-Yasmine Mahmoud
-
-3-Nada Khaled
-
-4-Laila Khaled
-
-5-Nariman Ahmed
-
-6-Malak Emad
